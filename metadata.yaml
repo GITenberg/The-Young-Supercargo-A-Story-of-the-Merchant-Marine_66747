@@ -1,0 +1,38 @@
+_repo: The-Young-Supercargo-A-Story-of-the-Merchant-Marine_66747
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Copeland, Charles
+    birthdate: 1858
+    deathdate: 1929
+    gutenberg_agent_id: '3033'
+    url: http://www.gutenberg.org/2009/agents/3033
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Copeland_(illustrator)
+creator:
+  author:
+    agent_name: Drysdale, William
+    gutenberg_agent_id: '53942'
+    url: http://www.gutenberg.org/2009/agents/53942
+description: ''
+gutenberg_issued: '2021-11-16'
+identifiers:
+  gutenberg: '66747'
+language: en
+pgterms:marc904: https://archive.org/details/youngsupercargos00drys
+pgterms:marc905: 20190514195123drysdale
+pgterms:marc906: '1898'
+pgterms:marc907: US
+production_note: 'davidkpark; Sue Clark; the image following page 211 provided by
+  The Young Supercargo: a Story of the Merchant Marine. 1898. Courtesy of Baldwin
+  Library of Historical Children''s Literature, Special and Area Studies Collections,
+  George A. Smathers Libraries, University of Florida; and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive/American Libraries.)'
+publication_note: United States :W. A. Wilde & Company,1898.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Young Supercargo: A Story of the Merchant Marine'
+url: http://www.gutenberg.org/ebooks/66747
