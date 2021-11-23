@@ -8,12 +8,17 @@ contributor:
     gutenberg_agent_id: '3033'
     url: http://www.gutenberg.org/2009/agents/3033
     wikipedia: https://en.wikipedia.org/wiki/Charles_Copeland_(illustrator)
+covers:
+- cover_type: archival
+  image_path: 66747-h/images/cover.jpg
 creator:
   author:
     agent_name: Drysdale, William
     gutenberg_agent_id: '53942'
     url: http://www.gutenberg.org/2009/agents/53942
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66747#The-Young-Supercargo-A-Story-of-the-Merchant-Marine
 gutenberg_issued: '2021-11-16'
 identifiers:
   gutenberg: '66747'
